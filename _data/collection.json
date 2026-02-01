@@ -78,7 +78,7 @@
 		"author": "IBM/Watchfire",
 		"notes": "Log in with jsmith/demo1234 or admin/admin",
 		"badge": "hclproducts/AltoroJ",
-		"stars": 279,
+		"stars": 281,
 		"last_contributed": "2024-07-23T11:07:27Z"
 	},
 	{
@@ -99,7 +99,7 @@
 		],
 		"author": "satishpatnayak",
 		"badge": "satishpatnayak/AndroGoat",
-		"stars": 309,
+		"stars": 313,
 		"last_contributed": "2025-11-22T05:07:26Z"
 	},
 	{
@@ -151,7 +151,7 @@
 		"author": "AWS Security Team",
 		"notes": "Hands-on lab for AWS infrastructure pentesting",
 		"badge": "RhinoSecurityLabs/cloudgoat",
-		"stars": 3448,
+		"stars": 3459,
 		"last_contributed": "2025-09-18T14:44:41Z"
 	},
 	{
@@ -419,7 +419,7 @@
 		"author": "Cider",
 		"notes": "Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, capture the flags.",
 		"badge": "cider-security-research/cicd-goat",
-		"stars": 2182,
+		"stars": 2185,
 		"last_contributed": "2024-07-11T13:31:30Z"
 	},
 	{
@@ -449,7 +449,7 @@
 		],
 		"author": "Rhino Security Labs",
 		"badge": "RhinoSecurityLabs/cloudgoat",
-		"stars": 3448,
+		"stars": 3459,
 		"last_contributed": "2025-09-18T14:44:41Z"
 	},
 	{
@@ -474,7 +474,7 @@
 		"author": "OWASP",
 		"notes": "OWASP crAPI (Completely Ridiculous API) is an intentionally vulnerable API designed to help security teams practice API security testing including BOLA, BFLA, mass assignment, and authentication flaws.",
 		"badge": "OWASP/crAPI",
-		"stars": 1409,
+		"stars": 1413,
 		"last_contributed": "2026-01-20T18:56:04Z"
 	},
 	{
@@ -584,7 +584,7 @@
 		],
 		"author": "Checkmarx",
 		"badge": "Checkmarx/capital",
-		"stars": 317,
+		"stars": 319,
 		"last_contributed": "2024-04-05T09:13:35Z"
 	},
 	{
@@ -598,7 +598,7 @@
 		],
 		"author": "Miroslav Stampar",
 		"badge": "stamparm/DSVW",
-		"stars": 853,
+		"stars": 854,
 		"last_contributed": "2025-12-21T15:44:20Z"
 	},
 	{
@@ -1484,7 +1484,7 @@
 		"author": "Snyk",
 		"notes": "online - via Heroku deploy",
 		"badge": "snyk-labs/nodejs-goof",
-		"stars": 532,
+		"stars": 535,
 		"last_contributed": "2023-05-24T00:11:27Z"
 	},
 	{
@@ -1600,7 +1600,7 @@
 		],
 		"author": "Rapid7 (NTObjectives)",
 		"badge": "rapid7/hackazon",
-		"stars": 1013,
+		"stars": 1016,
 		"last_contributed": "2021-03-11T20:02:53Z"
 	},
 	{
@@ -1886,7 +1886,7 @@
 		"author": "B3nac",
 		"notes": "A vulnerable Android application with CTF-style challenges focused on Android security.",
 		"badge": "B3nac/InjuredAndroid",
-		"stars": 731,
+		"stars": 735,
 		"last_contributed": "2021-06-25T04:04:12Z"
 	},
 	{
@@ -1902,7 +1902,9 @@
 		],
 		"author": "Omer Levi Hevroni",
 		"notes": "A small webserver vulnerable to insecure deserialization",
-		"badge": "omerlh/insecure-deserialisation-net-poc"
+		"badge": "omerlh/insecure-deserialisation-net-poc",
+		"stars": 20,
+		"last_contributed": "2017-11-30T10:59:08Z"
 	},
 	{
 		"url": "https://github.com/dineshshetty/Android-InsecureBankv2",
@@ -1923,7 +1925,7 @@
 		"author": "Dinesh Shetty",
 		"notes": "Vulnerable Android application for security enthusiasts and developers to learn about Android insecurities. Showcases various security vulnerabilities in Android banking applications.",
 		"badge": "dineshshetty/Android-InsecureBankv2",
-		"stars": 1389,
+		"stars": 1398,
 		"last_contributed": "2019-11-21T15:29:07Z"
 	},
 	{
@@ -1943,7 +1945,9 @@
 		],
 		"author": "Sjoerd Langkemper (Sjord)",
 		"notes": "Practice hacking JWT tokens.",
-		"badge": "Sjord/jwtdemo"
+		"badge": "Sjord/jwtdemo",
+		"stars": 116,
+		"last_contributed": "2022-09-08T10:49:42Z"
 	},
 	{
 		"url": "https://k8slanparty.com/",
@@ -2015,7 +2019,8 @@
 		"author": "Christophe Tafani-Dereeper, Gerard Arall, rayhan0x01 Rayhan Ahmed",
 		"notes": "CVE-2021-44228",
 		"badge": "christophetd/log4shell-vulnerable-app",
-		"stars": 1136
+		"stars": 1136,
+		"last_contributed": "2022-12-14T08:48:45Z"
 	},
 	{
 		"url": "https://github.com/SpiderLabs/MCIR",
@@ -2028,7 +2033,7 @@
 		],
 		"author": "SpiderLabs",
 		"badge": "SpiderLabs/MCIR",
-		"stars": 445,
+		"stars": 446,
 		"last_contributed": "2020-08-07T12:44:09Z"
 	},
 	{
@@ -2079,7 +2084,7 @@
 			}
 		],
 		"badge": "rapid7/metasploitable3",
-		"stars": 5407,
+		"stars": 5413,
 		"last_contributed": "2025-02-13T14:49:36Z"
 	},
 	{
