@@ -52,7 +52,7 @@
 		"author": "fhammon, Guanwei Hu",
 		"notes": "AI Goat uses the Vicuna LLM which derived from Meta's LLaMA and coupled with ChatGPT's response data. When installing AI Goat the LLM binary is downloaded from third party locally on your computer.",
 		"badge": "dhammon/ai-goat",
-		"stars": 314,
+		"stars": 318,
 		"last_contributed": "2024-08-22T02:33:49Z"
 	},
 	{
@@ -99,7 +99,7 @@
 		],
 		"author": "satishpatnayak",
 		"badge": "satishpatnayak/AndroGoat",
-		"stars": 318,
+		"stars": 323,
 		"last_contributed": "2025-11-22T05:07:26Z"
 	},
 	{
@@ -151,7 +151,7 @@
 		"author": "AWS Security Team",
 		"notes": "Hands-on lab for AWS infrastructure pentesting",
 		"badge": "RhinoSecurityLabs/cloudgoat",
-		"stars": 3474,
+		"stars": 3482,
 		"last_contributed": "2026-02-12T23:05:15Z"
 	},
 	{
@@ -253,7 +253,7 @@
 		],
 		"author": "Simon Bennetts (psiinon)",
 		"badge": "psiinon/bodgeit",
-		"stars": 282,
+		"stars": 281,
 		"last_contributed": "2024-08-13T15:45:36Z"
 	},
 	{
@@ -297,7 +297,7 @@
 		],
 		"author": "NeuraLegion",
 		"badge": "NeuraLegion/brokencrystals",
-		"stars": 183,
+		"stars": 182,
 		"last_contributed": "2026-02-12T13:08:41Z"
 	},
 	{
@@ -419,7 +419,7 @@
 		"author": "Cider",
 		"notes": "Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, capture the flags.",
 		"badge": "cider-security-research/cicd-goat",
-		"stars": 2197,
+		"stars": 2199,
 		"last_contributed": "2024-07-11T13:31:30Z"
 	},
 	{
@@ -449,7 +449,7 @@
 		],
 		"author": "Rhino Security Labs",
 		"badge": "RhinoSecurityLabs/cloudgoat",
-		"stars": 3474,
+		"stars": 3482,
 		"last_contributed": "2026-02-12T23:05:15Z"
 	},
 	{
@@ -474,8 +474,8 @@
 		"author": "OWASP",
 		"notes": "OWASP crAPI (Completely Ridiculous API) is an intentionally vulnerable API designed to help security teams practice API security testing including BOLA, BFLA, mass assignment, and authentication flaws.",
 		"badge": "OWASP/crAPI",
-		"stars": 1420,
-		"last_contributed": "2026-02-11T17:39:22Z"
+		"stars": 1427,
+		"last_contributed": "2026-02-15T20:17:55Z"
 	},
 	{
 		"url": "https://github.com/SpiderLabs/CryptOMG",
@@ -554,7 +554,7 @@
 		"author": "Arthur Kay",
 		"notes": "A simple scavenger hunt to learn about pentesting a website or web application.",
 		"badge": "arthurakay/cyberscavengerhunt",
-		"stars": 14,
+		"stars": 15,
 		"last_contributed": "2022-07-19T19:37:43Z"
 	},
 	{
@@ -584,7 +584,7 @@
 		],
 		"author": "Checkmarx",
 		"badge": "Checkmarx/capital",
-		"stars": 321,
+		"stars": 322,
 		"last_contributed": "2024-04-05T09:13:35Z"
 	},
 	{
@@ -598,7 +598,7 @@
 		],
 		"author": "Miroslav Stampar",
 		"badge": "stamparm/DSVW",
-		"stars": 856,
+		"stars": 857,
 		"last_contributed": "2025-12-21T15:44:20Z"
 	},
 	{
@@ -668,7 +668,7 @@
 		],
 		"author": "Rewanth Tammana, Akshansh Jaiswal, Hrushikesh Kakade",
 		"badge": "rewanthtammana/Damn-Vulnerable-Bank",
-		"stars": 732,
+		"stars": 734,
 		"last_contributed": "2023-12-13T07:48:44Z"
 	},
 	{
@@ -771,7 +771,7 @@
 		],
 		"author": "Dolev Farhi <dolev@lethalbit.com>, Connor McKinnon",
 		"badge": "dolevf/Damn-Vulnerable-GraphQL-Application",
-		"stars": 1672,
+		"stars": 1674,
 		"last_contributed": "2025-05-24T16:37:37Z"
 	},
 	{
@@ -800,7 +800,7 @@
 		"author": "Lorenzo Bartolini, Gabriele Costa",
 		"notes": "A fully simulated and self-hosted Damn Vulnerable Infrastructure with routers, subnetworks, Scada and many other vulnerable containers. It simulates an Energy Management System inside a University Campus.",
 		"badge": "LBartolini/DVI",
-		"stars": 6,
+		"stars": 7,
 		"last_contributed": "2025-11-11T09:13:08Z"
 	},
 	{
@@ -1186,8 +1186,8 @@
 		"author": "OWASP",
 		"notes": "AWS EKS Security Lab and activity.",
 		"badge": "OWASP/www-project-eks-goat",
-		"stars": 38,
-		"last_contributed": "2026-01-31T15:18:32Z"
+		"stars": 40,
+		"last_contributed": "2026-02-20T19:27:57Z"
 	},
 	{
 		"url": "https://sourceforge.net/projects/exploitcoilvuln/files/",
@@ -1271,7 +1271,7 @@
 		],
 		"author": "Google",
 		"badge": "google/firing-range",
-		"stars": 1406,
+		"stars": 1410,
 		"last_contributed": "2018-11-08T13:57:43Z"
 	},
 	{
@@ -1293,7 +1293,7 @@
 		"author": "Orange-Cyberdefense",
 		"notes": "Requires a considerably powerful system",
 		"badge": "Orange-Cyberdefense/GOAD",
-		"stars": 7445,
+		"stars": 7473,
 		"last_contributed": "2025-07-16T16:54:53Z"
 	},
 	{
@@ -1484,7 +1484,7 @@
 		"author": "Snyk",
 		"notes": "online - via Heroku deploy",
 		"badge": "snyk-labs/nodejs-goof",
-		"stars": 534,
+		"stars": 535,
 		"last_contributed": "2023-05-24T00:11:27Z"
 	},
 	{
@@ -1512,7 +1512,7 @@
 		"author": "rootxjs",
 		"notes": "Vulnerable by Design lab for learning and practicing gRPC security.",
 		"badge": "rootxjs/grpc-goat",
-		"stars": 50,
+		"stars": 51,
 		"last_contributed": "2025-09-22T13:28:09Z"
 	},
 	{
@@ -1600,7 +1600,7 @@
 		],
 		"author": "Rapid7 (NTObjectives)",
 		"badge": "rapid7/hackazon",
-		"stars": 1018,
+		"stars": 1019,
 		"last_contributed": "2021-03-11T20:02:53Z"
 	},
 	{
@@ -1886,7 +1886,7 @@
 		"author": "B3nac",
 		"notes": "A vulnerable Android application with CTF-style challenges focused on Android security.",
 		"badge": "B3nac/InjuredAndroid",
-		"stars": 738,
+		"stars": 740,
 		"last_contributed": "2021-06-25T04:04:12Z"
 	},
 	{
@@ -1925,7 +1925,7 @@
 		"author": "Dinesh Shetty",
 		"notes": "Vulnerable Android application for security enthusiasts and developers to learn about Android insecurities. Showcases various security vulnerabilities in Android banking applications.",
 		"badge": "dineshshetty/Android-InsecureBankv2",
-		"stars": 1403,
+		"stars": 1404,
 		"last_contributed": "2019-11-21T15:29:07Z"
 	},
 	{
@@ -1946,7 +1946,7 @@
 		"author": "Sjoerd Langkemper (Sjord)",
 		"notes": "Practice hacking JWT tokens.",
 		"badge": "Sjord/jwtdemo",
-		"stars": 116,
+		"stars": 115,
 		"last_contributed": "2022-09-08T10:49:42Z"
 	},
 	{
@@ -3183,7 +3183,7 @@
 		],
 		"author": "mddanish",
 		"badge": "mddanish/Vulnerable-OTP-Application",
-		"stars": 85,
+		"stars": 86,
 		"last_contributed": "2019-11-13T11:35:42Z"
 	},
 	{
@@ -3240,7 +3240,7 @@
 		"author": "Michael Vacarella",
 		"notes": "Vulnerable API for educational purposes",
 		"badge": "Aif4thah/VulnerableLightApp",
-		"stars": 51,
+		"stars": 52,
 		"last_contributed": "2026-01-07T13:25:41Z"
 	},
 	{
@@ -3271,7 +3271,7 @@
 		"author": "Yavuzlar (siberyavuzlar.com)",
 		"notes": "A web vulnerability lab project developed by Yavuzlar.",
 		"badge": "Yavuzlar/VulnLab",
-		"stars": 475,
+		"stars": 489,
 		"last_contributed": "2025-02-02T18:40:45Z"
 	},
 	{
@@ -3290,7 +3290,7 @@
 			}
 		],
 		"badge": "adamdoupe/WackoPicko",
-		"stars": 343,
+		"stars": 346,
 		"last_contributed": "2021-11-17T16:51:38Z"
 	},
 	{
@@ -3317,7 +3317,9 @@
 			}
 		],
 		"author": "Shay Chen",
-		"badge": "sectooladdict/wavsep"
+		"badge": "sectooladdict/wavsep",
+		"stars": 241,
+		"last_contributed": "2014-02-25T23:24:34Z"
 	},
 	{
 		"url": "https://github.com/samuraiwtf/wayfarer",
@@ -3331,7 +3333,9 @@
 			"React"
 		],
 		"author": "SamuraiWTF",
-		"badge": "SamuraiWTF/wayfarer"
+		"badge": "SamuraiWTF/wayfarer",
+		"stars": 1,
+		"last_contributed": "2023-08-24T20:35:50Z"
 	},
 	{
 		"url": "http://www.mavensecurity.com/web_security_dojo/",
@@ -3374,7 +3378,9 @@
 			}
 		],
 		"author": "OWASP",
-		"badge": "WebGoat/WebGoat"
+		"badge": "WebGoat/WebGoat",
+		"stars": 8932,
+		"last_contributed": "2026-02-08T19:17:37Z"
 	},
 	{
 		"url": "https://www.owasp.org/index.php/WebGoatPHP",
@@ -3396,7 +3402,9 @@
 			}
 		],
 		"author": "OWASP",
-		"badge": "OWASP/OWASPWebGoatPHP"
+		"badge": "OWASP/OWASPWebGoatPHP",
+		"stars": 148,
+		"last_contributed": "2025-04-28T23:55:59Z"
 	},
 	{
 		"url": "https://github.com/marmicode/websheep",
@@ -3417,7 +3425,9 @@
 		],
 		"author": "Younes Jaaidi (yjaaidi)",
 		"notes": " Websheep is an app based on a willingly vulnerable ReSTful APIs.",
-		"badge": "marmicode/websheep"
+		"badge": "marmicode/websheep",
+		"stars": 57,
+		"last_contributed": "2022-12-21T14:35:22Z"
 	},
 	{
 		"url": "https://code.google.com/p/wivet/",
@@ -3459,7 +3469,9 @@
 		],
 		"author": "Jeroen Willemsen (@commjoen), Ben de Haan (@bendehaan), Nanne Baars (@nbaars)",
 		"notes": "OWASP WrongSecrets is a vulnerable app used to show how to not use secrets.",
-		"badge": "commjoen/wrongsecrets"
+		"badge": "commjoen/wrongsecrets",
+		"stars": 1394,
+		"last_contributed": "2026-02-03T20:52:04Z"
 	},
 	{
 		"url": "https://github.com/s4n7h0/xvwa",
@@ -3479,7 +3491,7 @@
 		],
 		"author": "@s4n7h0, @samanL33T",
 		"badge": "s4n7h0/xvwa",
-		"stars": 1746,
+		"stars": 1745,
 		"last_contributed": "2020-09-12T17:26:23Z"
 	},
 	{
@@ -3511,7 +3523,7 @@
 		],
 		"author": "Joshua Barone",
 		"badge": "jbarone/xxelab",
-		"stars": 230,
+		"stars": 231,
 		"last_contributed": "2021-11-10T12:01:04Z"
 	},
 	{
