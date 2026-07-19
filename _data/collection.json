@@ -52,7 +52,7 @@
 		"author": "fhammon, Guanwei Hu",
 		"notes": "AI Goat uses the Vicuna LLM which derived from Meta's LLaMA and coupled with ChatGPT's response data. When installing AI Goat the LLM binary is downloaded from third party locally on your computer.",
 		"badge": "dhammon/ai-goat",
-		"stars": 351,
+		"stars": 353,
 		"last_contributed": "2024-08-22T02:33:49Z"
 	},
 	{
@@ -99,7 +99,7 @@
 		],
 		"author": "satishpatnayak",
 		"badge": "satishpatnayak/AndroGoat",
-		"stars": 375,
+		"stars": 379,
 		"last_contributed": "2025-11-22T05:07:26Z"
 	},
 	{
@@ -151,7 +151,7 @@
 		"author": "AWS Security Team",
 		"notes": "Hands-on lab for AWS infrastructure pentesting",
 		"badge": "RhinoSecurityLabs/cloudgoat",
-		"stars": 3664,
+		"stars": 3671,
 		"last_contributed": "2026-03-20T15:00:37Z"
 	},
 	{
@@ -298,7 +298,7 @@
 		"author": "NeuraLegion",
 		"badge": "NeuraLegion/brokencrystals",
 		"stars": 197,
-		"last_contributed": "2026-07-08T13:31:49Z"
+		"last_contributed": "2026-07-15T11:46:33Z"
 	},
 	{
 		"url": "https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project",
@@ -449,7 +449,7 @@
 		],
 		"author": "Rhino Security Labs",
 		"badge": "RhinoSecurityLabs/cloudgoat",
-		"stars": 3664,
+		"stars": 3671,
 		"last_contributed": "2026-03-20T15:00:37Z"
 	},
 	{
@@ -474,7 +474,7 @@
 		"author": "OWASP",
 		"notes": "OWASP crAPI (Completely Ridiculous API) is an intentionally vulnerable API designed to help security teams practice API security testing including BOLA, BFLA, mass assignment, and authentication flaws.",
 		"badge": "OWASP/crAPI",
-		"stars": 1542,
+		"stars": 1547,
 		"last_contributed": "2026-05-14T19:52:26Z"
 	},
 	{
@@ -584,7 +584,7 @@
 		],
 		"author": "Checkmarx",
 		"badge": "Checkmarx/capital",
-		"stars": 332,
+		"stars": 334,
 		"last_contributed": "2026-06-10T14:48:11Z"
 	},
 	{
@@ -598,7 +598,7 @@
 		],
 		"author": "Miroslav Stampar",
 		"badge": "stamparm/DSVW",
-		"stars": 873,
+		"stars": 874,
 		"last_contributed": "2025-12-21T15:44:20Z"
 	},
 	{
@@ -668,7 +668,7 @@
 		],
 		"author": "Rewanth Tammana, Akshansh Jaiswal, Hrushikesh Kakade",
 		"badge": "rewanthtammana/Damn-Vulnerable-Bank",
-		"stars": 754,
+		"stars": 756,
 		"last_contributed": "2023-12-13T07:48:44Z"
 	},
 	{
@@ -730,7 +730,7 @@
 		],
 		"author": "Thin Ba Shane (@art0flunam00n)",
 		"badge": "LunaM00n/File-Upload-Lab",
-		"stars": 103,
+		"stars": 104,
 		"last_contributed": "2018-05-26T09:32:38Z"
 	},
 	{
@@ -771,7 +771,7 @@
 		],
 		"author": "Dolev Farhi <dolev@lethalbit.com>, Connor McKinnon",
 		"badge": "dolevf/Damn-Vulnerable-GraphQL-Application",
-		"stars": 1692,
+		"stars": 1696,
 		"last_contributed": "2025-05-24T16:37:37Z"
 	},
 	{
@@ -846,7 +846,7 @@
 		"author": "Koen Buyens",
 		"notes": "A set of vulnerable applications which show Oauth2.0 vulnerabilities.",
 		"badge": "koenbuyens/Vulnerable-OAuth-2.0-Applications",
-		"stars": 331,
+		"stars": 332,
 		"last_contributed": "2018-09-15T17:12:22Z"
 	},
 	{
@@ -861,7 +861,7 @@
 		],
 		"author": "Oleksandr Kovalchuk",
 		"badge": "anxolerd/dvpwa",
-		"stars": 191,
+		"stars": 190,
 		"last_contributed": "2022-11-04T11:57:00Z"
 	},
 	{
@@ -883,7 +883,7 @@
 		"author": "theowni",
 		"notes": "Damn Vulnerable Restaurant is an intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.",
 		"badge": "theowni/Damn-Vulnerable-Restaurant-API-Game",
-		"stars": 922,
+		"stars": 924,
 		"last_contributed": "2026-07-09T21:14:09Z"
 	},
 	{
@@ -911,7 +911,7 @@
 		"author": "theowni",
 		"notes": "An intentionally vulnerable API training game for developers, ethical hackers, and security engineers. Designed as a CTF-style playground to learn, detect, exploit, and remediate API security vulnerabilities using a FastAPI-based application. Supports local Docker deployment and online execution via GitHub Codespaces.",
 		"badge": "theowni/Damn-Vulnerable-RESTaurant-API-Game",
-		"stars": 922,
+		"stars": 924,
 		"last_contributed": "2026-07-09T21:14:09Z"
 	},
 	{
@@ -978,7 +978,7 @@
 		],
 		"author": "RandomStorm",
 		"badge": "ethicalhack3r/DVWA",
-		"stars": 13345,
+		"stars": 13378,
 		"last_contributed": "2026-05-30T10:13:16Z"
 	},
 	{
@@ -1047,7 +1047,7 @@
 		"author": "Payatu",
 		"notes": "DIVA (Damn Insecure and Vulnerable App) is an intentionally vulnerable Android application designed to help security professionals and developers learn about Android security vulnerabilities.",
 		"badge": "payatu/diva-android",
-		"stars": 1122,
+		"stars": 1126,
 		"last_contributed": "2016-01-15T10:13:59Z"
 	},
 	{
@@ -1271,7 +1271,7 @@
 		],
 		"author": "Google",
 		"badge": "google/firing-range",
-		"stars": 1410,
+		"stars": 1412,
 		"last_contributed": "2018-11-08T13:57:43Z"
 	},
 	{
@@ -1293,7 +1293,7 @@
 		"author": "Orange-Cyberdefense",
 		"notes": "Requires a considerably powerful system",
 		"badge": "Orange-Cyberdefense/GOAD",
-		"stars": 8015,
+		"stars": 8047,
 		"last_contributed": "2026-03-12T06:57:40Z"
 	},
 	{
@@ -1410,7 +1410,7 @@
 		],
 		"author": " Katie Paxton-Fear ",
 		"badge": "InsiderPhD/Generic-University",
-		"stars": 425,
+		"stars": 426,
 		"last_contributed": "2022-11-14T19:01:24Z"
 	},
 	{
@@ -1484,7 +1484,7 @@
 		"author": "Snyk",
 		"notes": "online - via Heroku deploy",
 		"badge": "snyk-labs/nodejs-goof",
-		"stars": 548,
+		"stars": 550,
 		"last_contributed": "2026-05-01T06:19:09Z"
 	},
 	{
@@ -2345,7 +2345,7 @@
 		],
 		"author": "OWASP",
 		"badge": "juice-shop/juice-shop",
-		"stars": 13471,
+		"stars": 13512,
 		"last_contributed": "2026-06-26T08:44:14Z"
 	},
 	{
@@ -2405,8 +2405,8 @@
 		],
 		"author": "Karan Preet Singh Sasan",
 		"badge": "SasanLabs/VulnerableApp",
-		"stars": 436,
-		"last_contributed": "2026-07-11T03:58:19Z"
+		"stars": 441,
+		"last_contributed": "2026-07-19T01:32:07Z"
 	},
 	{
 		"url": "https://github.com/SasanLabs/VulnerableApp-facade",
@@ -2432,7 +2432,7 @@
 		"author": "Karan Preet Singh Sasan",
 		"badge": "SasanLabs/VulnerableApp-facade",
 		"stars": 57,
-		"last_contributed": "2026-07-12T00:53:04Z"
+		"last_contributed": "2026-07-16T01:49:42Z"
 	},
 	{
 		"url": "https://pentest-ground.com/",
@@ -2519,7 +2519,7 @@
 		],
 		"author": "OWASP",
 		"badge": "DevSlop/Pixi",
-		"stars": 139,
+		"stars": 140,
 		"last_contributed": "2020-03-31T18:11:43Z"
 	},
 	{
@@ -2584,7 +2584,7 @@
 		],
 		"author": "Ade Yoseman",
 		"badge": "adeyosemanputra/pygoat",
-		"stars": 336,
+		"stars": 337,
 		"last_contributed": "2026-03-28T13:44:10Z"
 	},
 	{
@@ -2601,7 +2601,7 @@
 		],
 		"author": "insp3ctre",
 		"badge": "insp3ctre/race-the-web",
-		"stars": 633,
+		"stars": 634,
 		"last_contributed": "2019-10-16T19:00:49Z"
 	},
 	{
@@ -2740,7 +2740,7 @@
 		],
 		"author": "DataDog",
 		"badge": "DataDog/security-labs-pocs",
-		"stars": 448,
+		"stars": 449,
 		"last_contributed": "2025-08-18T13:44:59Z"
 	},
 	{
