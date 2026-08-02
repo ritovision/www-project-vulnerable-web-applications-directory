@@ -11,7 +11,7 @@
 		"author": "OWASP",
 		"notes": "Original main repo: https://github.com/jerryhoff/WebGoat.NET. Others: https://github.com/rapPayne/WebGoat.Net , https://github.com/jowasp/WebGoat.NET.",
 		"badge": "jerryhoff/WebGoat.NET",
-		"stars": 254,
+		"stars": 257,
 		"last_contributed": "2014-02-22T16:00:50Z"
 	},
 	{
@@ -79,7 +79,7 @@
 		"notes": "Log in with jsmith/demo1234 or admin/admin",
 		"badge": "hclproducts/AltoroJ",
 		"stars": 298,
-		"last_contributed": "2024-07-23T11:07:27Z"
+		"last_contributed": "2026-07-27T11:34:21Z"
 	},
 	{
 		"url": "https://github.com/satishpatnayak/AndroGoat",
@@ -99,7 +99,7 @@
 		],
 		"author": "satishpatnayak",
 		"badge": "satishpatnayak/AndroGoat",
-		"stars": 382,
+		"stars": 383,
 		"last_contributed": "2025-11-22T05:07:26Z"
 	},
 	{
@@ -151,7 +151,7 @@
 		"author": "AWS Security Team",
 		"notes": "Hands-on lab for AWS infrastructure pentesting",
 		"badge": "RhinoSecurityLabs/cloudgoat",
-		"stars": 3676,
+		"stars": 3680,
 		"last_contributed": "2026-03-20T15:00:37Z"
 	},
 	{
@@ -419,7 +419,7 @@
 		"author": "Cider",
 		"notes": "Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, capture the flags.",
 		"badge": "cider-security-research/cicd-goat",
-		"stars": 2280,
+		"stars": 2281,
 		"last_contributed": "2024-07-11T13:31:30Z"
 	},
 	{
@@ -449,7 +449,7 @@
 		],
 		"author": "Rhino Security Labs",
 		"badge": "RhinoSecurityLabs/cloudgoat",
-		"stars": 3676,
+		"stars": 3680,
 		"last_contributed": "2026-03-20T15:00:37Z"
 	},
 	{
@@ -474,7 +474,7 @@
 		"author": "OWASP",
 		"notes": "OWASP crAPI (Completely Ridiculous API) is an intentionally vulnerable API designed to help security teams practice API security testing including BOLA, BFLA, mass assignment, and authentication flaws.",
 		"badge": "OWASP/crAPI",
-		"stars": 1550,
+		"stars": 1555,
 		"last_contributed": "2026-05-14T19:52:26Z"
 	},
 	{
@@ -554,7 +554,7 @@
 		"author": "Arthur Kay",
 		"notes": "A simple scavenger hunt to learn about pentesting a website or web application.",
 		"badge": "arthurakay/cyberscavengerhunt",
-		"stars": 16,
+		"stars": 17,
 		"last_contributed": "2022-07-19T19:37:43Z"
 	},
 	{
@@ -598,7 +598,7 @@
 		],
 		"author": "Miroslav Stampar",
 		"badge": "stamparm/DSVW",
-		"stars": 876,
+		"stars": 878,
 		"last_contributed": "2025-12-21T15:44:20Z"
 	},
 	{
@@ -691,7 +691,7 @@
 		],
 		"author": "Appsecco ",
 		"badge": "appsecco/dvcsharp-api",
-		"stars": 84,
+		"stars": 85,
 		"last_contributed": "2022-12-07T07:14:10Z"
 	},
 	{
@@ -771,7 +771,7 @@
 		],
 		"author": "Dolev Farhi <dolev@lethalbit.com>, Connor McKinnon",
 		"badge": "dolevf/Damn-Vulnerable-GraphQL-Application",
-		"stars": 1697,
+		"stars": 1702,
 		"last_contributed": "2025-05-24T16:37:37Z"
 	},
 	{
@@ -829,7 +829,7 @@
 		"author": "@appsecco",
 		"notes": "Different project from the old DVNA",
 		"badge": "appsecco/dvna",
-		"stars": 776,
+		"stars": 777,
 		"last_contributed": "2023-11-08T12:11:49Z"
 	},
 	{
@@ -883,7 +883,7 @@
 		"author": "theowni",
 		"notes": "Damn Vulnerable Restaurant is an intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.",
 		"badge": "theowni/Damn-Vulnerable-Restaurant-API-Game",
-		"stars": 927,
+		"stars": 929,
 		"last_contributed": "2026-07-09T21:14:09Z"
 	},
 	{
@@ -911,7 +911,7 @@
 		"author": "theowni",
 		"notes": "An intentionally vulnerable API training game for developers, ethical hackers, and security engineers. Designed as a CTF-style playground to learn, detect, exploit, and remediate API security vulnerabilities using a FastAPI-based application. Supports local Docker deployment and online execution via GitHub Codespaces.",
 		"badge": "theowni/Damn-Vulnerable-RESTaurant-API-Game",
-		"stars": 927,
+		"stars": 929,
 		"last_contributed": "2026-07-09T21:14:09Z"
 	},
 	{
