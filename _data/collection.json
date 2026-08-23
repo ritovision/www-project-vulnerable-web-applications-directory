@@ -78,7 +78,7 @@
 		"author": "IBM/Watchfire",
 		"notes": "Log in with jsmith/demo1234 or admin/admin",
 		"badge": "hclproducts/AltoroJ",
-		"stars": 298,
+		"stars": 300,
 		"last_contributed": "2026-07-27T11:34:21Z"
 	},
 	{
@@ -99,7 +99,7 @@
 		],
 		"author": "satishpatnayak",
 		"badge": "satishpatnayak/AndroGoat",
-		"stars": 388,
+		"stars": 390,
 		"last_contributed": "2025-11-22T05:07:26Z"
 	},
 	{
@@ -151,7 +151,7 @@
 		"author": "AWS Security Team",
 		"notes": "Hands-on lab for AWS infrastructure pentesting",
 		"badge": "RhinoSecurityLabs/cloudgoat",
-		"stars": 3694,
+		"stars": 3702,
 		"last_contributed": "2026-03-20T15:00:37Z"
 	},
 	{
@@ -253,7 +253,7 @@
 		],
 		"author": "Simon Bennetts (psiinon)",
 		"badge": "psiinon/bodgeit",
-		"stars": 288,
+		"stars": 287,
 		"last_contributed": "2024-08-13T15:45:36Z"
 	},
 	{
@@ -297,8 +297,8 @@
 		],
 		"author": "NeuraLegion",
 		"badge": "NeuraLegion/brokencrystals",
-		"stars": 200,
-		"last_contributed": "2026-08-12T07:30:03Z"
+		"stars": 203,
+		"last_contributed": "2026-08-20T08:43:37Z"
 	},
 	{
 		"url": "https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project",
@@ -419,7 +419,7 @@
 		"author": "Cider",
 		"notes": "Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, capture the flags.",
 		"badge": "cider-security-research/cicd-goat",
-		"stars": 2286,
+		"stars": 2292,
 		"last_contributed": "2024-07-11T13:31:30Z"
 	},
 	{
@@ -449,7 +449,7 @@
 		],
 		"author": "Rhino Security Labs",
 		"badge": "RhinoSecurityLabs/cloudgoat",
-		"stars": 3694,
+		"stars": 3702,
 		"last_contributed": "2026-03-20T15:00:37Z"
 	},
 	{
@@ -474,7 +474,7 @@
 		"author": "OWASP",
 		"notes": "OWASP crAPI (Completely Ridiculous API) is an intentionally vulnerable API designed to help security teams practice API security testing including BOLA, BFLA, mass assignment, and authentication flaws.",
 		"badge": "OWASP/crAPI",
-		"stars": 1556,
+		"stars": 1563,
 		"last_contributed": "2026-05-14T19:52:26Z"
 	},
 	{
@@ -584,7 +584,7 @@
 		],
 		"author": "Checkmarx",
 		"badge": "Checkmarx/capital",
-		"stars": 335,
+		"stars": 336,
 		"last_contributed": "2026-06-10T14:48:11Z"
 	},
 	{
@@ -599,7 +599,7 @@
 		"author": "Miroslav Stampar",
 		"badge": "stamparm/DSVW",
 		"stars": 880,
-		"last_contributed": "2026-08-11T09:06:00Z"
+		"last_contributed": "2026-08-19T21:27:28Z"
 	},
 	{
 		"url": "https://www.dvaib.com",
@@ -668,7 +668,7 @@
 		],
 		"author": "Rewanth Tammana, Akshansh Jaiswal, Hrushikesh Kakade",
 		"badge": "rewanthtammana/Damn-Vulnerable-Bank",
-		"stars": 755,
+		"stars": 756,
 		"last_contributed": "2023-12-13T07:48:44Z"
 	},
 	{
@@ -771,7 +771,7 @@
 		],
 		"author": "Dolev Farhi <dolev@lethalbit.com>, Connor McKinnon",
 		"badge": "dolevf/Damn-Vulnerable-GraphQL-Application",
-		"stars": 1703,
+		"stars": 1704,
 		"last_contributed": "2025-05-24T16:37:37Z"
 	},
 	{
@@ -883,7 +883,7 @@
 		"author": "theowni",
 		"notes": "Damn Vulnerable Restaurant is an intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.",
 		"badge": "theowni/Damn-Vulnerable-Restaurant-API-Game",
-		"stars": 931,
+		"stars": 934,
 		"last_contributed": "2026-07-09T21:14:09Z"
 	},
 	{
@@ -2084,7 +2084,7 @@
 			}
 		],
 		"badge": "rapid7/metasploitable3",
-		"stars": 5667,
+		"stars": 5675,
 		"last_contributed": "2025-02-13T14:49:36Z"
 	},
 	{
@@ -2111,7 +2111,7 @@
 		],
 		"author": "OWASP",
 		"badge": "OWASP/owasp-mstg",
-		"stars": 13116,
+		"stars": 13130,
 		"last_contributed": "2026-08-03T10:23:50Z"
 	},
 	{
@@ -2147,7 +2147,7 @@
 			}
 		],
 		"badge": "webpwnized/mutillidae",
-		"stars": 1510,
+		"stars": 1513,
 		"last_contributed": "2026-06-22T23:27:39Z"
 	},
 	{
@@ -2215,7 +2215,7 @@
 		],
 		"author": "cr0hn",
 		"badge": "cr0hn/vulnerable-node",
-		"stars": 489,
+		"stars": 488,
 		"last_contributed": "2024-04-29T21:09:49Z"
 	},
 	{
@@ -2300,7 +2300,7 @@
 		],
 		"author": "Abhineet Jayaraj (@xploresec)",
 		"badge": "interference-security/DVWS",
-		"stars": 361,
+		"stars": 362,
 		"last_contributed": "2025-12-19T17:00:57Z"
 	},
 	{
@@ -2345,8 +2345,8 @@
 		],
 		"author": "OWASP",
 		"badge": "juice-shop/juice-shop",
-		"stars": 13670,
-		"last_contributed": "2026-07-23T12:07:15Z"
+		"stars": 13704,
+		"last_contributed": "2026-08-10T21:37:49Z"
 	},
 	{
 		"url": "https://secureby.design/",
@@ -2405,8 +2405,8 @@
 		],
 		"author": "Karan Preet Singh Sasan",
 		"badge": "SasanLabs/VulnerableApp",
-		"stars": 443,
-		"last_contributed": "2026-08-09T00:48:24Z"
+		"stars": 457,
+		"last_contributed": "2026-08-22T04:41:15Z"
 	},
 	{
 		"url": "https://github.com/SasanLabs/VulnerableApp-facade",
@@ -2535,7 +2535,7 @@
 		],
 		"badge": "playframework/play-webgoat",
 		"stars": 18,
-		"last_contributed": "2026-07-19T08:32:40Z"
+		"last_contributed": "2026-08-22T00:18:41Z"
 	},
 	{
 		"url": "https://code.google.com/p/puzzlemall/",
@@ -2584,7 +2584,7 @@
 		],
 		"author": "Ade Yoseman",
 		"badge": "adeyosemanputra/pygoat",
-		"stars": 337,
+		"stars": 340,
 		"last_contributed": "2026-03-28T13:44:10Z"
 	},
 	{
@@ -2601,7 +2601,7 @@
 		],
 		"author": "insp3ctre",
 		"badge": "insp3ctre/race-the-web",
-		"stars": 634,
+		"stars": 635,
 		"last_contributed": "2019-10-16T19:00:49Z"
 	},
 	{
@@ -2625,7 +2625,7 @@
 		],
 		"author": "OWASP",
 		"badge": "OWASP/railsgoat",
-		"stars": 922,
+		"stars": 921,
 		"last_contributed": "2026-01-28T14:02:18Z"
 	},
 	{
@@ -2722,7 +2722,7 @@
 		"author": "Globo",
 		"notes": "Repository with many intentionally vulnerable web applications. Includes attack narratives and docker options for each app.",
 		"badge": "globocom/secDevLabs",
-		"stars": 976,
+		"stars": 979,
 		"last_contributed": "2024-09-25T19:54:56Z"
 	},
 	{
@@ -2741,7 +2741,7 @@
 		"author": "DataDog",
 		"badge": "DataDog/security-labs-pocs",
 		"stars": 449,
-		"last_contributed": "2025-08-18T13:44:59Z"
+		"last_contributed": "2026-08-21T15:43:37Z"
 	},
 	{
 		"url": "https://owasp.org/www-project-security-shepherd/",
@@ -2760,8 +2760,8 @@
 		],
 		"author": "OWASP",
 		"badge": "OWASP/SecurityShepherd",
-		"stars": 1451,
-		"last_contributed": "2026-06-12T10:44:50Z"
+		"stars": 1456,
+		"last_contributed": "2026-08-11T07:40:17Z"
 	},
 	{
 		"url": "http://testhtml5.vulnweb.com/",
@@ -2802,7 +2802,7 @@
 		],
 		"notes": "SQLmap Project",
 		"badge": "sqlmapproject/testenv",
-		"stars": 353,
+		"stars": 354,
 		"last_contributed": "2022-04-14T09:05:57Z"
 	},
 	{
@@ -2825,7 +2825,7 @@
 			}
 		],
 		"badge": "Audi-1/sqli-labs",
-		"stars": 5812,
+		"stars": 5834,
 		"last_contributed": "2014-10-31T19:10:23Z"
 	},
 	{
@@ -2844,7 +2844,7 @@
 			}
 		],
 		"badge": "SpiderLabs/SQLol",
-		"stars": 123,
+		"stars": 122,
 		"last_contributed": "2013-07-19T21:15:43Z"
 	},
 	{
@@ -2864,7 +2864,7 @@
 		],
 		"author": "incredibleindishell, Mohammed Farhan",
 		"badge": "incredibleindishell/SSRF_Vulnerable_Lab",
-		"stars": 784,
+		"stars": 790,
 		"last_contributed": "2023-08-21T17:02:38Z"
 	},
 	{
@@ -3273,7 +3273,7 @@
 		"author": "Yavuzlar (siberyavuzlar.com)",
 		"notes": "A web vulnerability lab project developed by Yavuzlar.",
 		"badge": "Yavuzlar/VulnLab",
-		"stars": 517,
+		"stars": 527,
 		"last_contributed": "2025-02-02T18:40:45Z"
 	},
 	{
@@ -3292,7 +3292,7 @@
 			}
 		],
 		"badge": "adamdoupe/WackoPicko",
-		"stars": 350,
+		"stars": 353,
 		"last_contributed": "2021-11-17T16:51:38Z"
 	},
 	{
@@ -3381,8 +3381,8 @@
 		],
 		"author": "OWASP",
 		"badge": "WebGoat/WebGoat",
-		"stars": 9188,
-		"last_contributed": "2026-06-26T15:33:22Z"
+		"stars": 9287,
+		"last_contributed": "2026-08-14T13:45:46Z"
 	},
 	{
 		"url": "https://www.owasp.org/index.php/WebGoatPHP",
@@ -3405,7 +3405,7 @@
 		],
 		"author": "OWASP",
 		"badge": "OWASP/OWASPWebGoatPHP",
-		"stars": 157,
+		"stars": 159,
 		"last_contributed": "2025-04-28T23:55:59Z"
 	},
 	{
@@ -3493,7 +3493,7 @@
 		],
 		"author": "@s4n7h0, @samanL33T",
 		"badge": "s4n7h0/xvwa",
-		"stars": 1760,
+		"stars": 1763,
 		"last_contributed": "2020-09-12T17:26:23Z"
 	},
 	{
