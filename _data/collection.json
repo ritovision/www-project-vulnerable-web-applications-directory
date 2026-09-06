@@ -52,7 +52,7 @@
 		"author": "fhammon, Guanwei Hu",
 		"notes": "AI Goat uses the Vicuna LLM which derived from Meta's LLaMA and coupled with ChatGPT's response data. When installing AI Goat the LLM binary is downloaded from third party locally on your computer.",
 		"badge": "dhammon/ai-goat",
-		"stars": 357,
+		"stars": 359,
 		"last_contributed": "2024-08-22T02:33:49Z"
 	},
 	{
@@ -78,7 +78,7 @@
 		"author": "IBM/Watchfire",
 		"notes": "Log in with jsmith/demo1234 or admin/admin",
 		"badge": "hclproducts/AltoroJ",
-		"stars": 302,
+		"stars": 304,
 		"last_contributed": "2026-07-27T11:34:21Z"
 	},
 	{
@@ -99,7 +99,7 @@
 		],
 		"author": "satishpatnayak",
 		"badge": "satishpatnayak/AndroGoat",
-		"stars": 392,
+		"stars": 393,
 		"last_contributed": "2025-11-22T05:07:26Z"
 	},
 	{
@@ -151,7 +151,7 @@
 		"author": "AWS Security Team",
 		"notes": "Hands-on lab for AWS infrastructure pentesting",
 		"badge": "RhinoSecurityLabs/cloudgoat",
-		"stars": 3712,
+		"stars": 3718,
 		"last_contributed": "2026-03-20T15:00:37Z"
 	},
 	{
@@ -419,7 +419,7 @@
 		"author": "Cider",
 		"notes": "Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, capture the flags.",
 		"badge": "cider-security-research/cicd-goat",
-		"stars": 2298,
+		"stars": 2299,
 		"last_contributed": "2024-07-11T13:31:30Z"
 	},
 	{
@@ -449,7 +449,7 @@
 		],
 		"author": "Rhino Security Labs",
 		"badge": "RhinoSecurityLabs/cloudgoat",
-		"stars": 3712,
+		"stars": 3718,
 		"last_contributed": "2026-03-20T15:00:37Z"
 	},
 	{
@@ -474,7 +474,7 @@
 		"author": "OWASP",
 		"notes": "OWASP crAPI (Completely Ridiculous API) is an intentionally vulnerable API designed to help security teams practice API security testing including BOLA, BFLA, mass assignment, and authentication flaws.",
 		"badge": "OWASP/crAPI",
-		"stars": 1567,
+		"stars": 1568,
 		"last_contributed": "2026-05-14T19:52:26Z"
 	},
 	{
@@ -598,7 +598,7 @@
 		],
 		"author": "Miroslav Stampar",
 		"badge": "stamparm/DSVW",
-		"stars": 880,
+		"stars": 879,
 		"last_contributed": "2026-08-19T21:27:28Z"
 	},
 	{
@@ -668,7 +668,7 @@
 		],
 		"author": "Rewanth Tammana, Akshansh Jaiswal, Hrushikesh Kakade",
 		"badge": "rewanthtammana/Damn-Vulnerable-Bank",
-		"stars": 756,
+		"stars": 757,
 		"last_contributed": "2023-12-13T07:48:44Z"
 	},
 	{
@@ -716,8 +716,8 @@
 		"author": "Najam Ul Saqib (cybersoldier)",
 		"notes": "A deliberately insecure ElectronJS application",
 		"badge": "njmulsqb/DVEA",
-		"stars": 18,
-		"last_contributed": "2026-08-27T11:23:27Z"
+		"stars": 19,
+		"last_contributed": "2026-09-02T14:37:46Z"
 	},
 	{
 		"url": "https://github.com/LunaM00n/File-Upload-Lab",
@@ -771,7 +771,7 @@
 		],
 		"author": "Dolev Farhi <dolev@lethalbit.com>, Connor McKinnon",
 		"badge": "dolevf/Damn-Vulnerable-GraphQL-Application",
-		"stars": 1705,
+		"stars": 1709,
 		"last_contributed": "2025-05-24T16:37:37Z"
 	},
 	{
@@ -861,7 +861,7 @@
 		],
 		"author": "Oleksandr Kovalchuk",
 		"badge": "anxolerd/dvpwa",
-		"stars": 192,
+		"stars": 194,
 		"last_contributed": "2022-11-04T11:57:00Z"
 	},
 	{
@@ -933,7 +933,7 @@
 		],
 		"author": "Protego Labs",
 		"badge": "OWASP/DVSA",
-		"stars": 546,
+		"stars": 547,
 		"last_contributed": "2023-09-12T11:04:54Z"
 	},
 	{
@@ -978,7 +978,7 @@
 		],
 		"author": "RandomStorm",
 		"badge": "ethicalhack3r/DVWA",
-		"stars": 13568,
+		"stars": 13607,
 		"last_contributed": "2026-08-19T13:12:21Z"
 	},
 	{
@@ -1250,7 +1250,7 @@
 		"author": "adamtlangley",
 		"notes": "Target practice for ffuf",
 		"badge": "adamtlangley/ffufme",
-		"stars": 76,
+		"stars": 78,
 		"last_contributed": "2021-08-10T22:13:44Z"
 	},
 	{
@@ -1271,7 +1271,7 @@
 		],
 		"author": "Google",
 		"badge": "google/firing-range",
-		"stars": 1413,
+		"stars": 1412,
 		"last_contributed": "2018-11-08T13:57:43Z"
 	},
 	{
@@ -2201,7 +2201,7 @@
 		],
 		"author": "OWASP",
 		"badge": "OWASP/NodeGoat",
-		"stars": 2060,
+		"stars": 2064,
 		"last_contributed": "2023-06-21T07:23:23Z"
 	},
 	{
@@ -3493,7 +3493,7 @@
 		],
 		"author": "@s4n7h0, @samanL33T",
 		"badge": "s4n7h0/xvwa",
-		"stars": 1763,
+		"stars": 1764,
 		"last_contributed": "2020-09-12T17:26:23Z"
 	},
 	{
