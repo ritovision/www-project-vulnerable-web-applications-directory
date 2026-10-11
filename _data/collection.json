@@ -11,7 +11,7 @@
 		"author": "OWASP",
 		"notes": "Original main repo: https://github.com/jerryhoff/WebGoat.NET. Others: https://github.com/rapPayne/WebGoat.Net , https://github.com/jowasp/WebGoat.NET.",
 		"badge": "jerryhoff/WebGoat.NET",
-		"stars": 259,
+		"stars": 258,
 		"last_contributed": "2014-02-22T16:00:50Z"
 	},
 	{
@@ -78,7 +78,7 @@
 		"author": "IBM/Watchfire",
 		"notes": "Log in with jsmith/demo1234 or admin/admin",
 		"badge": "hclproducts/AltoroJ",
-		"stars": 304,
+		"stars": 305,
 		"last_contributed": "2026-07-27T11:34:21Z"
 	},
 	{
@@ -99,7 +99,7 @@
 		],
 		"author": "satishpatnayak",
 		"badge": "satishpatnayak/AndroGoat",
-		"stars": 403,
+		"stars": 404,
 		"last_contributed": "2025-11-22T05:07:26Z"
 	},
 	{
@@ -151,7 +151,7 @@
 		"author": "AWS Security Team",
 		"notes": "Hands-on lab for AWS infrastructure pentesting",
 		"badge": "RhinoSecurityLabs/cloudgoat",
-		"stars": 3749,
+		"stars": 3753,
 		"last_contributed": "2026-03-20T15:00:37Z"
 	},
 	{
@@ -297,7 +297,7 @@
 		],
 		"author": "NeuraLegion",
 		"badge": "NeuraLegion/brokencrystals",
-		"stars": 206,
+		"stars": 209,
 		"last_contributed": "2026-08-20T08:43:37Z"
 	},
 	{
@@ -449,7 +449,7 @@
 		],
 		"author": "Rhino Security Labs",
 		"badge": "RhinoSecurityLabs/cloudgoat",
-		"stars": 3749,
+		"stars": 3753,
 		"last_contributed": "2026-03-20T15:00:37Z"
 	},
 	{
@@ -474,7 +474,7 @@
 		"author": "OWASP",
 		"notes": "OWASP crAPI (Completely Ridiculous API) is an intentionally vulnerable API designed to help security teams practice API security testing including BOLA, BFLA, mass assignment, and authentication flaws.",
 		"badge": "OWASP/crAPI",
-		"stars": 1591,
+		"stars": 1601,
 		"last_contributed": "2026-09-09T03:43:54Z"
 	},
 	{
@@ -668,7 +668,7 @@
 		],
 		"author": "Rewanth Tammana, Akshansh Jaiswal, Hrushikesh Kakade",
 		"badge": "rewanthtammana/Damn-Vulnerable-Bank",
-		"stars": 757,
+		"stars": 761,
 		"last_contributed": "2023-12-13T07:48:44Z"
 	},
 	{
@@ -716,8 +716,8 @@
 		"author": "Najam Ul Saqib (cybersoldier)",
 		"notes": "A deliberately insecure ElectronJS application",
 		"badge": "njmulsqb/DVEA",
-		"stars": 21,
-		"last_contributed": "2026-09-09T12:24:23Z"
+		"stars": 22,
+		"last_contributed": "2026-10-09T13:44:29Z"
 	},
 	{
 		"url": "https://github.com/LunaM00n/File-Upload-Lab",
