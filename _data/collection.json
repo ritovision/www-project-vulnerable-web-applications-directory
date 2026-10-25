@@ -11,7 +11,7 @@
 		"author": "OWASP",
 		"notes": "Original main repo: https://github.com/jerryhoff/WebGoat.NET. Others: https://github.com/rapPayne/WebGoat.Net , https://github.com/jowasp/WebGoat.NET.",
 		"badge": "jerryhoff/WebGoat.NET",
-		"stars": 259,
+		"stars": 260,
 		"last_contributed": "2014-02-22T16:00:50Z"
 	},
 	{
@@ -52,7 +52,7 @@
 		"author": "fhammon, Guanwei Hu",
 		"notes": "AI Goat uses the Vicuna LLM which derived from Meta's LLaMA and coupled with ChatGPT's response data. When installing AI Goat the LLM binary is downloaded from third party locally on your computer.",
 		"badge": "dhammon/ai-goat",
-		"stars": 371,
+		"stars": 372,
 		"last_contributed": "2024-08-22T02:33:49Z"
 	},
 	{
@@ -99,7 +99,7 @@
 		],
 		"author": "satishpatnayak",
 		"badge": "satishpatnayak/AndroGoat",
-		"stars": 404,
+		"stars": 405,
 		"last_contributed": "2025-11-22T05:07:26Z"
 	},
 	{
@@ -151,7 +151,7 @@
 		"author": "AWS Security Team",
 		"notes": "Hands-on lab for AWS infrastructure pentesting",
 		"badge": "RhinoSecurityLabs/cloudgoat",
-		"stars": 3760,
+		"stars": 3762,
 		"last_contributed": "2026-10-14T20:57:46Z"
 	},
 	{
@@ -297,8 +297,8 @@
 		],
 		"author": "NeuraLegion",
 		"badge": "NeuraLegion/brokencrystals",
-		"stars": 211,
-		"last_contributed": "2026-08-20T08:43:37Z"
+		"stars": 209,
+		"last_contributed": "2026-10-21T15:47:34Z"
 	},
 	{
 		"url": "https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project",
@@ -449,7 +449,7 @@
 		],
 		"author": "Rhino Security Labs",
 		"badge": "RhinoSecurityLabs/cloudgoat",
-		"stars": 3760,
+		"stars": 3762,
 		"last_contributed": "2026-10-14T20:57:46Z"
 	},
 	{
@@ -474,7 +474,7 @@
 		"author": "OWASP",
 		"notes": "OWASP crAPI (Completely Ridiculous API) is an intentionally vulnerable API designed to help security teams practice API security testing including BOLA, BFLA, mass assignment, and authentication flaws.",
 		"badge": "OWASP/crAPI",
-		"stars": 1608,
+		"stars": 1618,
 		"last_contributed": "2026-09-09T03:43:54Z"
 	},
 	{
@@ -730,7 +730,7 @@
 		],
 		"author": "Thin Ba Shane (@art0flunam00n)",
 		"badge": "LunaM00n/File-Upload-Lab",
-		"stars": 104,
+		"stars": 105,
 		"last_contributed": "2018-05-26T09:32:38Z"
 	},
 	{
