@@ -52,7 +52,7 @@
 		"author": "fhammon, Guanwei Hu",
 		"notes": "AI Goat uses the Vicuna LLM which derived from Meta's LLaMA and coupled with ChatGPT's response data. When installing AI Goat the LLM binary is downloaded from third party locally on your computer.",
 		"badge": "dhammon/ai-goat",
-		"stars": 376,
+		"stars": 377,
 		"last_contributed": "2024-08-22T02:33:49Z"
 	},
 	{
@@ -78,7 +78,7 @@
 		"author": "IBM/Watchfire",
 		"notes": "Log in with jsmith/demo1234 or admin/admin",
 		"badge": "hclproducts/AltoroJ",
-		"stars": 307,
+		"stars": 308,
 		"last_contributed": "2026-07-27T11:34:21Z"
 	},
 	{
@@ -99,7 +99,7 @@
 		],
 		"author": "satishpatnayak",
 		"badge": "satishpatnayak/AndroGoat",
-		"stars": 412,
+		"stars": 418,
 		"last_contributed": "2025-11-22T05:07:26Z"
 	},
 	{
@@ -125,7 +125,7 @@
 		"author": "digininja (Robin Wood)",
 		"badge": "digininja/authlab",
 		"stars": 98,
-		"last_contributed": "2023-01-30T09:47:54Z"
+		"last_contributed": "2026-11-13T21:28:17Z"
 	},
 	{
 		"url": "https://bigiamchallenge.com/",
@@ -151,7 +151,7 @@
 		"author": "AWS Security Team",
 		"notes": "Hands-on lab for AWS infrastructure pentesting",
 		"badge": "RhinoSecurityLabs/cloudgoat",
-		"stars": 3777,
+		"stars": 3787,
 		"last_contributed": "2026-10-14T20:57:46Z"
 	},
 	{
@@ -419,7 +419,7 @@
 		"author": "Cider",
 		"notes": "Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, capture the flags.",
 		"badge": "cider-security-research/cicd-goat",
-		"stars": 2334,
+		"stars": 2338,
 		"last_contributed": "2024-07-11T13:31:30Z"
 	},
 	{
@@ -449,7 +449,7 @@
 		],
 		"author": "Rhino Security Labs",
 		"badge": "RhinoSecurityLabs/cloudgoat",
-		"stars": 3777,
+		"stars": 3787,
 		"last_contributed": "2026-10-14T20:57:46Z"
 	},
 	{
@@ -474,7 +474,7 @@
 		"author": "OWASP",
 		"notes": "OWASP crAPI (Completely Ridiculous API) is an intentionally vulnerable API designed to help security teams practice API security testing including BOLA, BFLA, mass assignment, and authentication flaws.",
 		"badge": "OWASP/crAPI",
-		"stars": 1628,
+		"stars": 1633,
 		"last_contributed": "2026-09-09T03:43:54Z"
 	},
 	{
@@ -584,7 +584,7 @@
 		],
 		"author": "Checkmarx",
 		"badge": "Checkmarx/capital",
-		"stars": 338,
+		"stars": 339,
 		"last_contributed": "2026-06-10T14:48:11Z"
 	},
 	{
@@ -598,7 +598,7 @@
 		],
 		"author": "Miroslav Stampar",
 		"badge": "stamparm/DSVW",
-		"stars": 884,
+		"stars": 885,
 		"last_contributed": "2026-08-19T21:27:28Z"
 	},
 	{
@@ -668,7 +668,7 @@
 		],
 		"author": "Rewanth Tammana, Akshansh Jaiswal, Hrushikesh Kakade",
 		"badge": "rewanthtammana/Damn-Vulnerable-Bank",
-		"stars": 767,
+		"stars": 769,
 		"last_contributed": "2023-12-13T07:48:44Z"
 	},
 	{
@@ -691,7 +691,7 @@
 		],
 		"author": "Appsecco ",
 		"badge": "appsecco/dvcsharp-api",
-		"stars": 86,
+		"stars": 87,
 		"last_contributed": "2022-12-07T07:14:10Z"
 	},
 	{
@@ -716,7 +716,7 @@
 		"author": "Najam Ul Saqib (cybersoldier)",
 		"notes": "A deliberately insecure ElectronJS application",
 		"badge": "njmulsqb/DVEA",
-		"stars": 22,
+		"stars": 23,
 		"last_contributed": "2026-10-09T13:44:29Z"
 	},
 	{
@@ -751,7 +751,7 @@
 		],
 		"author": "we45 (Abhay Bhargav)",
 		"badge": "we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service",
-		"stars": 139,
+		"stars": 140,
 		"last_contributed": "2019-01-23T15:17:54Z"
 	},
 	{
@@ -771,7 +771,7 @@
 		],
 		"author": "Dolev Farhi <dolev@lethalbit.com>, Connor McKinnon",
 		"badge": "dolevf/Damn-Vulnerable-GraphQL-Application",
-		"stars": 1719,
+		"stars": 1720,
 		"last_contributed": "2025-05-24T16:37:37Z"
 	},
 	{
@@ -829,7 +829,7 @@
 		"author": "@appsecco",
 		"notes": "Different project from the old DVNA",
 		"badge": "appsecco/dvna",
-		"stars": 781,
+		"stars": 783,
 		"last_contributed": "2023-11-08T12:11:49Z"
 	},
 	{
@@ -846,7 +846,7 @@
 		"author": "Koen Buyens",
 		"notes": "A set of vulnerable applications which show Oauth2.0 vulnerabilities.",
 		"badge": "koenbuyens/Vulnerable-OAuth-2.0-Applications",
-		"stars": 332,
+		"stars": 333,
 		"last_contributed": "2018-09-15T17:12:22Z"
 	},
 	{
@@ -2111,8 +2111,8 @@
 		],
 		"author": "OWASP",
 		"badge": "OWASP/owasp-mstg",
-		"stars": 13208,
-		"last_contributed": "2026-09-18T19:46:49Z"
+		"stars": 13345,
+		"last_contributed": "2026-11-04T13:15:05Z"
 	},
 	{
 		"url": "https://github.com/OWASP/MSTG-Hacking-Playground",
@@ -2128,7 +2128,7 @@
 		],
 		"author": "OWASP",
 		"badge": "OWASP/MSTG-Hacking-Playground",
-		"stars": 695,
+		"stars": 703,
 		"last_contributed": "2022-10-31T17:03:31Z"
 	},
 	{
@@ -2147,7 +2147,7 @@
 			}
 		],
 		"badge": "webpwnized/mutillidae",
-		"stars": 1526,
+		"stars": 1536,
 		"last_contributed": "2026-09-24T23:04:06Z"
 	},
 	{
@@ -2201,7 +2201,7 @@
 		],
 		"author": "OWASP",
 		"badge": "OWASP/NodeGoat",
-		"stars": 2069,
+		"stars": 2084,
 		"last_contributed": "2023-06-21T07:23:23Z"
 	},
 	{
@@ -2215,7 +2215,7 @@
 		],
 		"author": "cr0hn",
 		"badge": "cr0hn/vulnerable-node",
-		"stars": 489,
+		"stars": 493,
 		"last_contributed": "2026-09-08T17:25:49Z"
 	},
 	{
@@ -2236,7 +2236,7 @@
 		],
 		"author": "@digininja",
 		"badge": "digininja/nosqlilab",
-		"stars": 138,
+		"stars": 139,
 		"last_contributed": "2026-02-23T13:06:48Z"
 	},
 	{
@@ -2300,7 +2300,7 @@
 		],
 		"author": "Abhineet Jayaraj (@xploresec)",
 		"badge": "interference-security/DVWS",
-		"stars": 363,
+		"stars": 366,
 		"last_contributed": "2025-12-19T17:00:57Z"
 	},
 	{
@@ -2345,8 +2345,8 @@
 		],
 		"author": "OWASP",
 		"badge": "juice-shop/juice-shop",
-		"stars": 14019,
-		"last_contributed": "2026-08-10T21:37:49Z"
+		"stars": 14446,
+		"last_contributed": "2026-11-08T18:13:15Z"
 	},
 	{
 		"url": "https://secureby.design/",
@@ -2405,8 +2405,8 @@
 		],
 		"author": "Karan Preet Singh Sasan",
 		"badge": "SasanLabs/VulnerableApp",
-		"stars": 468,
-		"last_contributed": "2026-10-03T07:59:59Z"
+		"stars": 483,
+		"last_contributed": "2026-11-14T20:17:37Z"
 	},
 	{
 		"url": "https://github.com/SasanLabs/VulnerableApp-facade",
@@ -2432,7 +2432,7 @@
 		"author": "Karan Preet Singh Sasan",
 		"badge": "SasanLabs/VulnerableApp-facade",
 		"stars": 57,
-		"last_contributed": "2026-09-18T19:16:00Z"
+		"last_contributed": "2026-11-12T22:27:48Z"
 	},
 	{
 		"url": "https://pentest-ground.com/",
@@ -2535,7 +2535,7 @@
 		],
 		"badge": "playframework/play-webgoat",
 		"stars": 18,
-		"last_contributed": "2026-10-01T06:35:28Z"
+		"last_contributed": "2026-10-29T23:45:22Z"
 	},
 	{
 		"url": "https://code.google.com/p/puzzlemall/",
@@ -2584,8 +2584,8 @@
 		],
 		"author": "Ade Yoseman",
 		"badge": "adeyosemanputra/pygoat",
-		"stars": 348,
-		"last_contributed": "2026-03-28T13:44:10Z"
+		"stars": 356,
+		"last_contributed": "2026-11-01T14:43:03Z"
 	},
 	{
 		"url": "https://github.com/insp3ctre/race-the-web",
@@ -2625,7 +2625,7 @@
 		],
 		"author": "OWASP",
 		"badge": "OWASP/railsgoat",
-		"stars": 927,
+		"stars": 930,
 		"last_contributed": "2026-09-08T12:46:31Z"
 	},
 	{
